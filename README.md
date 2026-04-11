@@ -32,5 +32,6 @@
 > Этот репозиторий защищает авторство и первоисточник идеи.
 > См. LICENSE
 
+- [`formula.md`](formula.md) — Формула: M ≡ F
 - [`elektrostatika-kak-sostoyanie.md`](views/elektrostatika-kak-sostoyanie.md) — Электростатика как незавершённая рефлексия
 - [`views/rodniki-idei.md`](views/rodniki-idei.md) — Источники, где звучало близкое
