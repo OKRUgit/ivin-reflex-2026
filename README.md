@@ -33,3 +33,4 @@
 > См. LICENSE
 
 - [`elektrostatika-kak-sostoyanie.md`](views/elektrostatika-kak-sostoyanie.md) — Электростатика как незавершённая рефлексия
+- [`views/rodniki-idei.md`](views/rodniki-idei.md) — Источники, где звучало близкое
