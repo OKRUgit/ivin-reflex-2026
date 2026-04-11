@@ -30,6 +30,6 @@
 ---
 
 > Этот репозиторий защищает авторство и первоисточник идеи.
-> См. LICENSE.md
+> См. LICENSE
 
 - [`elektrostatika-kak-sostoyanie.md`](views/elektrostatika-kak-sostoyanie.md) — Электростатика как незавершённая рефлексия
