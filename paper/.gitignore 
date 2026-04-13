@@ -1,0 +1,20 @@
+# Временные файлы LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Резервные копии
+*~
+
+# Важно: оставить
+!ivin_reflex_2026.tex
+!ivin_reflex_2026.pdf
+EOF
